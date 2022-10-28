@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7498b55c-1edb-4319-947c-f4cd80bc36c8/deploy-status)](https://app.netlify.com/sites/admirable-elf-a5f913/deploys)
 
-## Available Scripts
+# Math Magicians App
+> A Single Page App built with React that allows users to access a calculator, make simple operations and read random math quotes.
 
-In the project directory, you can run:
+## Built With :hammer_and_wrench: 
 
-### `npm start`
+- **HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax.
+- **GitHub flow:**  Correct use of Branches for deployment and features development.
+- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
+- **Webpack:** Bundler form JavaScript files for usage in a browser.
+- **REACT JS:** JS library used for the basic structure.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo :arrow_forward:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ [Click Here](https://admirable-elf-a5f913.netlify.app/)
 
-### `npm test`
+## Set Up Guide :page_facing_up: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Use the following link for "$ git clone" the [repo](https://github.com/AlucardSanin/mathMagicians) and cd mathMagicians
 
-### `npm run build`
+2. "npm install" to install all the dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. "npm start" to run the live version locally
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. "code ." To open the project on your local editor
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Please click on the "acess link" so you can view the live demo
 
-### `npm run eject`
+6. You can use to make any mathematical operations/calculations.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author :writing_hand: 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:man_technologist:  **David Isea**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- GitHub: [@AlucardSanin](https://github.com/AlucardSanin)
+- Twitter: [@cadivisea](https://twitter.com/cadivisea)
+- LinkedIn: [David Isea](https://www.linkedin.com/in/david-isea-560424236/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Milestones
 
-## Learn More
+- Milestone 1: Setup. :heavy_check_mark:  
+- Milestone 2: Components. :heavy_check_mark: 
+- Milestone 3: Events. :heavy_check_mark:
+- Milestone 4: Refactor with hooks. :heavy_check_mark:
+- Milestone 5: Full website. :gear:
+- Milestone 6: Tests (pair programming). :hammer_and_wrench:
+- Milestone 7: Deploy. :hammer_and_wrench:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feel free to check the [issues page](../../issues/).
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Show your support
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
