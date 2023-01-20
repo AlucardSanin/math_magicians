@@ -1,20 +1,17 @@
+/* eslint-disable react/prefer-stateless-function */
 import React from 'react';
-import { Outlet } from 'react-router-dom';
-import Navigation from './components/NavBar';
-import Footer from './components/Footer';
+import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div className="App">
-      <header>
-        <Navigation />
-      </header>
-      <main id="main-section">
-        <Outlet />
-      </main>
-      <Footer />
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <main id="main-section">
+          <Calculator />
+        </main>
+      </div>
+    );
+  }
 }
 
 export default App;
